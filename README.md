@@ -10,7 +10,7 @@ JUST FOLLOW ME
 INSTALL GIT CLONE
 
 
-git clone https://github.com/sallakhsystem/pyysk3
+git clone https://github.com/sallakhsystem/SKSELF3PY3
 
 
 done↙️ then 👇↙️↙️type
@@ -19,13 +19,13 @@ done↙️ then 👇↙️↙️type
 ls
 
 
-cd pyysk3
+cd SKSELF3PY3
 
 
 screen -R sallakh.py3
 
 
-python3 pyysk3.py
+python3 SKSELF3PY3.py
 
 
 login qr link for your Line . 
