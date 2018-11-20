@@ -102,12 +102,12 @@ wait = {
     "sticker":False,
     "selfbot":True,
     "unsend":False,
-    "mention":"Hayoo ngintip ,ketuaan kan..ngaku hayoo",
-    "Respontag":"ciee nge-Tag gua ,pasti pas ada maunya aja kan...🙌😂",
-    "welcome":"Nah Calon Tikungan Baru",
-    "leave":"NAH LOH BAPER KHAAAN KHAAAN ,KEBANYAKAN DRAMA SIHH..😂",
-    "comment":"Like by JEM_BOT",
-    "message":"ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ :\nList opsi\n🤖 Pasangan Hidup :\n🔰 Only Status ⏩ 180K/Bulan\n\n🤖 Systim Contract :\n🔰 Only Curhat ⏩ 100K/Bulan\n🔰 Zona Friend + TTM\n🔰 Zona Nyaman + Full Care + On 5day + 2 day free ⏩ 300K/Bulan\n\n✍️ Bisa Requests Mau Berapa Lama Durasi Buat Debay.\nChat Ke : http://line.me/ti/p/~calon.almarhum99\n\n📃\n* Always on 24 Jam\n* Keuntungan Banyak\n* Durasi min 0.25month\n* max no limit",
+    "mention":"@!, hi join to chat. بیا و بچت نرو زیر آب",
+    "Respontag":"@!, hi .sent pm my private chat. عمه لز کاری داری پیوی بگو ",
+    "welcome":"@!, Hi Welcome . ",
+    "leave":"@!, bye . see u . کجا پس 😂",
+    "comment":"Like by ﾑცცﾑ$ $ﾑℓℓﾑKԋ 💪",
+    "message":" :\nList opsi\n🤖 ™®© عـݕآښ ښــݪاݗــݦ ™®© :\n🔰 Only Status ⏩ 180K/Bulan\n\n🤖 Systim Contract :\n🔰 Only Curhat ⏩ 100K/Bulan\n🔰 Zona Friend + TTM\n🔰 Zona Nyaman + Full Care + On 5day + 2 day free ⏩ 300K/Bulan\n\n✍️ اگه میخای ادد کن و بگو.\nChat  : http://line.me/ti/p/fDkawyMoqD\n\n📃\n* Always on 24 Jam\n* Keuntungan Banyak\n* Durasi min 0.25month\n* max no limit",
     }
 
 read = {
@@ -357,9 +357,9 @@ def help():
     key = key.title()
     key2 = Setmain["namecreator"]
     key2 = key2.title()
-    helpMessage = "🔰 MODE: "+ key2 +" 🔰" + "\n" + \
+    helpMessage = "🔰 MODE: "+ key2 +"$-K" + "\n" + \
                   "🔥 Help Message 🔥" + "\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     ABBAS SAllakh「 " + key + " 」$-K\n" + \
                   "\n🔵 Menu" + "\n" + \
                   "🔰 " + key + "Help\n" + \
                   "🔰 " + key + "Help bot\n" + \
@@ -410,8 +410,8 @@ def help():
                   "🔰 " + key + "Setkey「New Key」\n" + \
                   "🔰 " + key + "Mykey\n" + \
                   "🔰 " + key + "Resetkey\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
-                  "\n🔵 Hiburan" + "\n" + \
+                  "    $-K ცots 「 " + key + " 」$-K™\n" + \
+                  "\n🔵 Media" + "\n" + \
                   "🎭 " + key + "Musik:「Judul Lagu」\n" + \
                   "🎭 " + key + "Musik2:「Judul Lagu」\n" + \
                   "🎭 " + key + "Playlist「Nama Penyanyi」\n" + \
@@ -441,7 +441,7 @@ def help():
                   "🎭 " + key + "Spamcall:「jumlahnya」\n" + \
                   "🎭 " + key + "Spamcall\n" + \
                   "🎭 " + key + "ID line:「Id Line nya」\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     $-K Bots「 " + key + " 」ɨℳ ﾑცცﾑ$ $ﾑℓℓﾑKԋ\n" + \
                   "\n🔵 Settings" + "\n" + \
                   "🎭 " + key + "Unsend「on/off」\n" + \
                   "🎭 " + key + "Jointicket「on/off」\n" + \
@@ -454,7 +454,7 @@ def help():
                   "🎭 " + key + "Welcome「on/off」\n" + \
                   "🎭 " + key + "Simi「on/off」\n" + \
                   "🎭 " + key + "Autoleave「on/off」\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     $-K Bots「 " + key + " 」ﾑცცﾑ$ $ﾑℓℓﾑKԋ ™\n" + \
                   "\n🔵 Admin" + "\n" + \
                   "🎭 " + key + "Changenamecreator:「Nama」\n" + \
                   "🎭 " + key + "Resetnamecreator\n" + \
@@ -464,7 +464,7 @@ def help():
                   "🎭 " + key + "Admindell「@」\n" + \
                   "🎭 " + key + "Refresh\n" + \
                   "🎭 " + key + "Listadmin\n" + \
-                  "     Ketik「 Refresh 」Jika Sudah Menggunakan Command Diatas...\n" + \
+                  "     Type「 Refresh 」بعد از دستورات بالا ضروری است...\n" + \
                   "\n🔐 USER BY:"+ key2 + "🔐"
     return helpMessage
 
@@ -475,9 +475,9 @@ def helarot():
     key = key.title()
     key2 = Setmain["namecreator"]
     key2 = key2.title()
-    helpMessage1 ="🔰 NAME: "+ key2 +" 🔰" + "\n" + \
+    helpMessage1 ="🔰 NAME: "+ key2 +"عبـآښ ښــݪاݗـݦ" + "\n" + \
                   "🔵 Help Bot" + "\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     $-K ცots「 " + key + " 」ﾑცცﾑ$ $-K Bots\n" + \
                   "\n🔵 Menu" + "\n" + \
                   "🔥 " + key + "Cek sider\n" + \
                   "🔥 " + key + "Cek spam\n" + \
@@ -494,8 +494,8 @@ def helarot():
                   "🔥 " + key + "Myname:「Nama」\n" + \
                   "🔥 " + key + "Gift:「Mid korban」「Jumlah」\n" + \
                   "🔥 " + key + "Spam:「Mid korban」「Jumlah」\n" + \
-                  "     Ketik「 Refresh 」Jika Sudah Menggunakan Command Diatas...\n" + \
-                  "\n🔐 USER:"+ key2 + "🔐"
+                  "     Type「 Refresh 」بعد از هر دستور ضروری است...\n" + \
+                  "\n🔐 USER:"+ key2 + "ﾑცცﾑ$ $ﾑℓℓﾑKɦ ﾑℳ"
     return helpMessage1
 
 def infomeme():
@@ -528,12 +528,12 @@ def infomeme():
 ✍ sparta
 ✍ aag
 
-🎓 by: ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ™ 🎓
-line.me/ti/p/~calon.almarhum99"""
+🎓 by:$ﾑℓℓﾑKԋ™ 🎓
+http://line.me/ti/p/fDkawyMoqD"""
     return helpMessage2
 def listharga():
     helpMessage3 = """
-#Price List ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ :
+#Price List ɨℳ ﾑცცﾑ$ $ﾑℓℓﾑKԋ :
 
 🤖 Jasa bikin 2anak :
 🔰 Male/Female Only ⏩ 150K/Minggu
@@ -544,7 +544,7 @@ def listharga():
 🔰 Private + Publik + Legal + Certifikasi ⏩ 250K/Minggu
 
 ✍️ Bisa Requests Mau Berapa Lama Buat Debay.
-Chat Ke : http://line.me/ti/p/~calon.almarhum99
+Chat http://line.me/ti/p/fDkawyMoqD
 
 📃
 * Always on 24 Jam
