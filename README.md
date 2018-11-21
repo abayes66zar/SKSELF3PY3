@@ -37,8 +37,6 @@ Done your bot active .
 good Luck
 
 add me for toturial all Sc & NEW BOT'S FOR ALL MODEL & VERSION
- https://scdn.line-apps.com/n/line_add_friends/btn/en.png
-
 https://line.me/ti/p/fDkawyMoqD
 
 
