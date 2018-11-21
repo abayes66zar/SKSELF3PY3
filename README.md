@@ -38,7 +38,7 @@ good Luck
 
 add me for toturial all Sc & NEW BOT'S FOR ALL MODEL & VERSION
 
-## Addme (https://scdn.line-apps.com/n/line_add_friends/btn/en.png)
+#Addme(https://scdn.line-apps.com/n/line_add_friends/btn/en.png)
 
 https://line.me/ti/p/fDkawyMoqD
 
